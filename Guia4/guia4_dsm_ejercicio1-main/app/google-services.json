@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833769977217",
+    "project_id": "singupapp-56c48",
+    "storage_bucket": "singupapp-56c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833769977217:android:ed9477d3be3527199c2480",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833769977217-o5u0qs1tg4bs3kikkhjpqun4rg5iffbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZsC0o3swW6La9RzREJ_KE8ukhHzzSSgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833769977217-o5u0qs1tg4bs3kikkhjpqun4rg5iffbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
